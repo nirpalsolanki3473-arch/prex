@@ -1,4 +1,4 @@
-# 📊 Excel Formula Practice Workbook: Fundamental Booster
+# 📊 Excel Fundamental Booster
 
 A beginner-friendly Excel project designed to strengthen fundamental spreadsheet skills through practical exercises using Student, Sales, and Employee datasets.
 
